@@ -31,6 +31,11 @@
             <groupId>com.github.yeecode.objectlogger</groupId>
             <artifactId>ObjectLoggerClient</artifactId>
         </dependency>
+        <!--驱动-->
+        <dependency>
+            <groupId>org.mariadb.jdbc</groupId>
+            <artifactId>mdb-java-client</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
